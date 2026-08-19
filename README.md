@@ -5,6 +5,9 @@ A single-file team preview calculator for Pokémon GO's Great League. Type what 
 Built by **aayush1621**.
 
 ---
+![Go Battle Mode showing three opponent columns with shield matrices](preview.png)
+
+![Opponent move list with damage against each of your team](preview1.png)
 
 ## What it does
 
